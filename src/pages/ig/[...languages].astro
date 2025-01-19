@@ -1,0 +1,61 @@
+---
+import App from "../../App";
+import Layout from '../../layouts/Layout.astro';
+import Header from "../../components/Header.astro";
+import Main from "../../components/Main.astro";
+import Footer from "../../components/Footer.astro";
+import SEOContainer from "../../components/SEOContainer.astro";
+import {LanguagesArray} from "../../arrays/LanguagesArray";
+
+export async function getStaticPaths() {
+    return LanguagesArray.map(language => ({
+        params: {languages: language.code}
+    }));
+}
+
+const {languages} = Astro.params;
+const languageCode = languages || 'en';
+
+let language;
+
+try {
+    language = await import(`../../languages/instagram/${languageCode}.json`);
+} catch (error) {
+    language = await import(`../../languages/instagram/en.json`);
+}
+
+const props = {
+    lang: languageCode,
+    formTitle: language.form.formTitle,
+    page:"ig",
+    formDescription: language.form.formDescription,
+    formPlaceholder: language.form.formPlaceholder,
+    formPasteButtonTitle: language.form.formPasteButtonTitle,
+    formClearButtonTitle: language.form.formClearButtonTitle,
+    formSubmitButtonTitle: language.form.formSubmitButtonTitle,
+}
+---
+
+<Layout
+        lang={languageCode}
+        title={language.site.title}
+        site="https://blessingsave.com/ig"
+        description={language.site.description}>
+    <Header page="ig"
+            tiktokButtonTitle={language.header.tiktokButtonTitle}
+            instagramButtonTitle={language.header.instagramButtonTitle}
+            languagesButtonTitle={language.header.languageButtonTitle}/>
+    <Main>
+        <App
+                client:load {...props}
+        />
+        <SEOContainer
+                firstIntroduce={language.SEOContainer.introduce.first}
+                secondIntroduce={language.SEOContainer.introduce.second}
+                featuresTitle={language.SEOContainer.feature.title}
+                featuresContents={language.SEOContainer.feature.contents}
+                FAQTitle={language.SEOContainer.faq.title}
+                FAQItems={language.SEOContainer.faq.items}/>
+    </Main>
+    <Footer/>
+</Layout>

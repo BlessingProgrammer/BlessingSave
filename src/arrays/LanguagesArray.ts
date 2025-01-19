@@ -1,0 +1,28 @@
+import { Language } from '../models/Language';
+
+export const LanguagesArray: Language[] = [
+    new Language('vi', '🇻🇳', 'Tiếng Việt'),
+    new Language('en', '🇺🇸', 'English'),
+    new Language('ar', '🇸🇦', 'العربية'),
+    new Language('cs', '🇨🇿', 'Čeština'),
+    new Language('de', '🇩🇪', 'Deutsch'),
+    new Language('es', '🇪🇸', 'Español'),
+    new Language('fa', '🇮🇷', 'فارسی'),
+    new Language('fr', '🇫🇷', 'Français'),
+    new Language('he', '🇮🇱', 'עברית'),
+    new Language('hi', '🇮🇳', 'हिंदी'),
+    new Language('id', '🇮🇩', 'Bahasa Indonesia'),
+    new Language('it', '🇮🇹', 'Italiano'),
+    new Language('ja', '🇯🇵', '日本語'),
+    new Language('ko', '🇰🇷', '한국어'),
+    new Language('ms', '🇲🇾', 'Melayu'),
+    new Language('nl', '🇳🇱', 'Nederlands'),
+    new Language('pl', '🇵🇱', 'Polski'),
+    new Language('pt', '🇵🇹', 'Português'),
+    new Language('ro', '🇷🇴', 'Română'),
+    new Language('ru', '🇷🇺', 'Русский'),
+    new Language('se', '🇸🇪', 'Svenska'),
+    new Language('th', '🇹🇭', 'ไทย'),
+    new Language('tr', '🇹🇷', 'Türkçe'),
+    new Language('zh', '🇨🇳', '中文'),
+];

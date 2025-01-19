@@ -1,0 +1,6 @@
+User-agent: *  
+Disallow: /src/redux/
+Disallow: /src/network/
+
+Allow: /
+Sitemap: https://blessingsave.com/sitemap.xml

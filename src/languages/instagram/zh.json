@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "Instagram 下载器 - 在线下载 Instagram 视频、照片、音乐和故事，无水印 | BlessingSave.com",
+    "description": "BlessingSave.com - 最好的免费在线 Instagram 下载器，用于下载视频、照片、音乐和故事，无水印到智能手机或计算机。"
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok 下载器",
+    "facebookButtonTitle": "Facebook 下载器",
+    "instagramButtonTitle": "Instagram 下载器",
+    "languageButtonTitle": "语言"
+  },
+  "form": {
+    "formTitle": "Instagram 下载器",
+    "formDescription": "下载视频 | 照片 | 音乐 | 故事",
+    "formPlaceholder": "在这里粘贴您的 Instagram 链接",
+    "formPasteButtonTitle": "粘贴",
+    "formClearButtonTitle": "清除",
+    "formSubmitButtonTitle": "下载"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "免费下载 Instagram 视频、照片、音乐和故事，无水印",
+        "content": "BlessingSave.com 是领先的 Instagram 下载工具，您可以直接通过浏览器下载 Instagram 视频、照片、音乐和故事，无水印。您无需在计算机或手机上安装任何软件；只需要 Instagram 链接，所有处理都在我们这里完成，只需点击一下，您就可以将内容下载到设备上。"
+      },
+      "second": {
+        "title": "轻松下载 Instagram 音乐，无水印",
+        "content": "只需输入 Instagram 链接，您就可以立即下载高质量的 MP3 音乐文件到您的设备。无需注册 – 这是完全免费的，尽在 BlessingSave.com！"
+      }
+    },
+    "feature": {
+      "title": "主要特点",
+      "contents": [
+        "下载 Instagram 视频、照片、音乐和故事，无水印。",
+        "兼容所有设备：手机、PC 或平板。",
+        "直接通过浏览器下载：无需下载或安装任何软件。",
+        "永久免费。我只放置少量广告，帮助支持服务并改善它。",
+        "用户友好的界面，快速简便的下载。"
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": [
+        {
+          "id": "1",
+          "question": "什么是 Instagram 下载器？",
+          "answer": "Instagram 下载器是一个工具或软件，允许用户将 Instagram 视频、照片、音乐和故事保存到设备中，无水印，提供多种质量选项。"
+        },
+        {
+          "id": "2",
+          "question": "我如何下载 Instagram 内容？",
+          "answer": "要下载无水印的 Instagram 内容，只需复制 Instagram 链接，将其粘贴到我的工具中，然后下载到您的设备。"
+        },
+        {
+          "id": "3",
+          "question": "使用 Instagram 下载器合法吗？",
+          "answer": "下载 Instagram 内容用于个人用途是合法的。请勿再分发它们，以避免版权问题。"
+        },
+        {
+          "id": "4",
+          "question": "我可以下载无水印的 Instagram 视频吗？",
+          "answer": "是的，您可以在 BlessingSave.com 下载无水印的 Instagram 视频、照片、音乐和故事。"
+        },
+        {
+          "id": "5",
+          "question": "Instagram 下载器是免费的？",
+          "answer": "是的，BlessingSave.com 完全免费。我只放置少量广告以帮助支持服务并改善它。"
+        },
+        {
+          "id": "6",
+          "question": "使用 Instagram 下载器需要登录吗？",
+          "answer": "BlessingSave.com 是一个在线工具，无需登录即可使用。"
+        },
+        {
+          "id": "7",
+          "question": "我可以下载高质量的无水印 Instagram 内容吗？",
+          "answer": "是的，您可以在 BlessingSave.com 下载高质量的 Instagram 内容，例如 HD 和 Full HD 视频、照片和音乐，无水印。"
+        },
+        {
+          "id": "8",
+          "question": "我可以以什么格式下载 Instagram 内容？",
+          "answer": "Instagram 视频将以 MP4 格式下载，照片以 JPG 格式，音乐以 MP3 格式，全部无水印。"
+        },
+        {
+          "id": "9",
+          "question": "Instagram 下载器安全吗？",
+          "answer": "虽然许多 Instagram 下载器是安全的，但选择一个声誉良好且可靠的工具非常重要，以避免安全风险。"
+        },
+        {
+          "id": "10",
+          "question": "我如何选择最好的 Instagram 下载器？",
+          "answer": "在选择 Instagram 下载器时，考虑用户评价、支持的格式、内容质量选项和易用性。一个好的工具还应该优先考虑用户隐私和安全。"
+        }
+      ]
+    }
+  }
+}

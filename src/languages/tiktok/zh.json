@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "TikTok 下载器 - 下载无水印的 TikTok 视频 - MP4, MP3, 音乐 & 图片 | BlessingSave.com",
+    "description": "BlessingSave.com - 最佳免费 TikTok 下载器，支持下载视频、音乐和图片到您的手机或电脑。"
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok 下载器",
+    "facebookButtonTitle": "Facebook 下载器",
+    "instagramButtonTitle": "Instagram 下载器",
+    "languageButtonTitle": "语言"
+  },
+  "form": {
+    "formTitle": "TikTok 下载器",
+    "formDescription": "下载 视频 | 音乐 | 图片",
+    "formPlaceholder": "在此粘贴您的 TikTok 链接",
+    "formPasteButtonTitle": "粘贴",
+    "formClearButtonTitle": "清除",
+    "formSubmitButtonTitle": "下载"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "免费下载 TikTok 视频和音乐 - 无水印",
+        "content": "BlessingSave.com 是领先的 TikTok 下载工具，您可以直接通过浏览器下载无水印的 TikTok 视频。无需安装任何软件，您只需提供 TikTok 视频链接，所有处理都在我们这边完成，点击一次即可将视频下载到您的设备。"
+      },
+      "second": {
+        "title": "免费下载 TikTok 音乐 MP3 - 快速简便",
+        "content": "只需输入 TikTok 视频链接，即可快速将高质量的 MP3 音乐文件下载到您的设备。无需注册 – 完全免费，尽在 BlessingSave.com！"
+      }
+    },
+    "feature": {
+      "title": "主要特点",
+      "contents": [
+        "无水印下载，提供更好的视频质量，这是大多数工具所无法提供的。",
+        "支持在任何设备上下载 TikTok 视频，无论是手机、PC 还是平板。TikTok 仅允许通过其应用下载视频，而且下载的视频都有水印。",
+        "直接通过浏览器下载：操作简便、快速，无需下载或安装任何软件。",
+        "永久免费。我们只展示少量广告，帮助支持服务并持续改进。",
+        "BlessingSave 还提供音乐和高质量视频缩略图的下载功能。"
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": [
+        {
+          "id": "1",
+          "question": "什么是 TikTok 下载器？",
+          "answer": "TikTok 下载器是一个工具或软件，允许用户将 TikTok 视频、音乐和图片保存到设备上，并提供不同质量选项供选择。"
+        },
+        {
+          "id": "2",
+          "question": "如何下载 TikTok 视频？",
+          "answer": "要下载 TikTok 视频，只需复制视频链接，将其粘贴到我们的工具中，然后下载到您的设备即可。"
+        },
+        {
+          "id": "3",
+          "question": "使用 TikTok 下载器合法吗？",
+          "answer": "下载 TikTok 视频用于个人使用是合法的。为了避免侵犯版权，您不应重新分发这些视频。"
+        },
+        {
+          "id": "4",
+          "question": "我可以下载无水印的视频吗？",
+          "answer": "是的，您可以在 BlessingSave.com 上下载无水印的 TikTok 视频。"
+        },
+        {
+          "id": "5",
+          "question": "TikTok 下载器是免费的么？",
+          "answer": "是的，BlessingSave.com 完全免费使用。我们只展示少量广告以支持服务的运行与改进。"
+        },
+        {
+          "id": "6",
+          "question": "使用 TikTok 下载器需要登录吗？",
+          "answer": "BlessingSave.com 是一个在线工具，您无需登录即可使用。"
+        },
+        {
+          "id": "7",
+          "question": "我可以下载 HD 高清质量的 TikTok 视频吗？",
+          "answer": "是的，您可以在 BlessingSave.com 上下载 TikTok 的高清（HD）和全高清（Full HD）视频。"
+        },
+        {
+          "id": "8",
+          "question": "我可以以什么格式下载 TikTok 视频？",
+          "answer": "TikTok 视频将以 MP4 格式下载，音乐文件将以 MP3 格式下载。"
+        },
+        {
+          "id": "9",
+          "question": "TikTok 下载器安全吗？",
+          "answer": "虽然许多 TikTok 下载器是安全的，但选择一个信誉良好的工具非常重要，以避免潜在的安全风险。"
+        },
+        {
+          "id": "10",
+          "question": "如何选择最佳的 TikTok 下载器？",
+          "answer": "选择 TikTok 下载器时，请考虑用户评价、支持的格式、视频质量选项以及使用方便性。一个好的工具应优先考虑用户隐私和安全。"
+        }
+      ]
+    }
+  }
+}

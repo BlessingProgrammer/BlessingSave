@@ -1,17 +1,18 @@
 ---
-import App from "../App";
-import Layout from '../layouts/Layout.astro';
-import Header from "../components/Header.astro";
-import Main from "../components/Main.astro";
-import Footer from "../components/Footer.astro";
-import SEOContainer from "../components/SEOContainer.astro";
-import en from "../languages/tiktok/en.json";
+import App from "../../App";
+import Layout from '../../layouts/Layout.astro';
+import Header from "../../components/Header.astro";
+import Main from "../../components/Main.astro";
+import Footer from "../../components/Footer.astro";
+import SEOContainer from "../../components/SEOContainer.astro";
+import en from "../../languages/instagram/en.json";
 
 const languageCode = 'en'
 
 const props = {
     lang: languageCode,
     formTitle: en.form.formTitle,
+    page:"ig",
     formDescription: en.form.formDescription,
     formPlaceholder: en.form.formPlaceholder,
     formPasteButtonTitle: en.form.formPasteButtonTitle,
@@ -23,9 +24,10 @@ const props = {
 <Layout
         lang="en"
         title={en.site.title}
-        site="https://blessingsave.com"
+        site="https://blessingsave.com/ig"
         description={en.site.description}>
-    <Header tiktokButtonTitle={en.header.tiktokButtonTitle}
+    <Header page="ig"
+            tiktokButtonTitle={en.header.tiktokButtonTitle}
             instagramButtonTitle={en.header.instagramButtonTitle}
             languagesButtonTitle={en.header.languageButtonTitle}/>
     <Main>

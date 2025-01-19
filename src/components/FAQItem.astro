@@ -1,0 +1,34 @@
+---
+interface Props {
+    id: string;
+    question: string;
+    answer: string;
+}
+
+const {id, question, answer} = Astro.props;
+---
+
+<div id=`accordion-flush-heading-${id}`
+     itemscope
+     itemprop="mainEntity"
+     itemtype="https://schema.org/Question">
+    <h2 itemprop="name">
+        <button type="button"
+                class=""
+                data-accordion-target=`#accordion-flush-body-${id}`
+                aria-expanded="false"
+                aria-controls=`accordion-flush-body-${id}`>
+            {question}
+        </button>
+    </h2>
+    <div id=`accordion-flush-body-${id}`
+         class="hidden"
+         itemtype="https://schema.org/Answer"
+         itemscope
+         aria-labelledby=`accordion-flush-heading-${id}`
+         itemprop="acceptedAnswer">
+        <p itemprop="text">
+            {answer}
+        </p>
+    </div>
+</div>
