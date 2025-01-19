@@ -31,17 +31,21 @@ const {
     FAQItems
 } = Astro.props;
 ---
-<div class="mx-0.5 sm:mx-0 my-3 sm:px-4 md:px-6 lg:px-10">
+<div class="mx-0.5 sm:mx-0 my-5 sm:px-4 md:px-6 lg:px-10">
     <SEOTitle title={firstIntroduce.title}/>
     <SEOContent content={firstIntroduce.content}/>
 
     <SEOTitle title={secondIntroduce.title}/>
     <SEOContent content={secondIntroduce.content}/>
-
+    <amp-auto-ads type="adsense"
+                  data-ad-client="ca-pub-4861255981688770">
+    </amp-auto-ads>
     <SEOTitle title={featuresTitle}/>
     {featuresContents && featuresContents.map((item: any) => (
             <SEOContent content={item}/>))}
-
+    <amp-auto-ads type="adsense"
+                  data-ad-client="ca-pub-4861255981688770">
+    </amp-auto-ads>
     <SEOTitle title={FAQTitle}/>
     <div id="accordion-flush"
          data-accordion="collapse"
