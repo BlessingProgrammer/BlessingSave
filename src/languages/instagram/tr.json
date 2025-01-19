@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "Instagram Downloader - Instagram Videoları, Fotoğrafları, Müzikleri ve Hikayeleri Filigransız İndir | BlessingSave.com",
+    "description": "BlessingSave.com - Videoları, fotoğrafları, müzikleri ve hikayeleri filigransız olarak akıllı telefonunuza veya bilgisayarınıza indirebileceğiniz en iyi ücretsiz Instagram indirici."
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok İndirici",
+    "facebookButtonTitle": "Facebook İndirici",
+    "instagramButtonTitle": "Instagram İndirici",
+    "languageButtonTitle": "Dil"
+  },
+  "form": {
+    "formTitle": "Instagram İndirici",
+    "formDescription": "Videoları İndir | Fotoğraflar | Müzik | Hikayeler",
+    "formPlaceholder": "Instagram linkinizi buraya yapıştırın",
+    "formPasteButtonTitle": "Yapıştır",
+    "formClearButtonTitle": "Temizle",
+    "formSubmitButtonTitle": "İndir"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "Instagram Videolarını, Fotoğraflarını, Müziklerini ve Hikayelerini ÜCRETSİZ Filigransız İndirin",
+        "content": "BlessingSave.com, tarayıcınızdan doğrudan kullanabileceğiniz ve Instagram videolarını, fotoğraflarını, müziklerini ve hikayelerini filigransız indirmenize olanak tanıyan lider bir Instagram indirici aracıdır. Bilgisayarınıza veya cep telefonunuza herhangi bir yazılım yüklemenize gerek yoktur; tek yapmanız gereken Instagram linkini girmek ve tüm işlem bizim tarafımızdan yapılır, böylece sadece bir tıklama ile içeriği cihazınıza indirebilirsiniz."
+      },
+      "second": {
+        "title": "Instagram Müziklerini Kolayca Filigransız İndirin",
+        "content": "Instagram linkinizi girerek, yüksek kaliteli MP3 müzik dosyalarını cihazınıza anında indirebilirsiniz. Kayıt olmanıza gerek yok – tamamen ücretsiz olarak BlessingSave.com'da!"
+      }
+    },
+    "feature": {
+      "title": "Ana Özellikler",
+      "contents": [
+        "Instagram videolarını, fotoğraflarını, müziklerini ve hikayelerini filigransız indirin.",
+        "Tüm cihazlarla uyumludur: mobil, PC veya tablet.",
+        "Tarayıcınız aracılığıyla doğrudan indirin: Yazılım indirmenize veya kurmanıza gerek yoktur.",
+        "Her zaman ücretsizdir. Sadece hizmeti desteklemek ve iyileştirmek için birkaç reklam yerleştiriyorum.",
+        "Hızlı ve basit indirmeler için kullanıcı dostu arayüz."
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "id": "1",
+          "question": "Instagram İndirici nedir?",
+          "answer": "Instagram indirici, kullanıcıların Instagram videolarını, fotoğraflarını, müziklerini ve hikayelerini cihazlarına filigransız olarak indirip kaydetmelerine olanak tanıyan bir araç veya yazılımdır."
+        },
+        {
+          "id": "2",
+          "question": "Instagram'dan içerik nasıl indirilir?",
+          "answer": "Instagram içeriğini filigransız indirmek için, Instagram linkini kopyalayın, araca yapıştırın ve cihazınıza indirin."
+        },
+        {
+          "id": "3",
+          "question": "Instagram indirici kullanmak yasal mı?",
+          "answer": "Instagram içeriğini kişisel kullanım için indirmek yasaldır. Telif hakkı sorunlarından kaçınmak için bunları dağıtmayın."
+        },
+        {
+          "id": "4",
+          "question": "Instagram videolarını filigransız indirebilir miyim?",
+          "answer": "Evet, Instagram videolarını, fotoğraflarını, müziklerini ve hikayelerini filigransız olarak BlessingSave.com'dan indirebilirsiniz."
+        },
+        {
+          "id": "5",
+          "question": "Instagram indirici ücretsiz mi?",
+          "answer": "Evet, BlessingSave.com tamamen ücretsizdir. Sadece hizmeti desteklemek ve iyileştirmek için birkaç reklam yerleştiriyorum."
+        },
+        {
+          "id": "6",
+          "question": "Instagram indiricisini kullanmak için giriş yapmam gerekiyor mu?",
+          "answer": "BlessingSave.com bir çevrimiçi araçtır ve kullanmak için giriş yapmanız gerekmez."
+        },
+        {
+          "id": "7",
+          "question": "Instagram içeriğini HD kalitesinde filigransız indirebilir miyim?",
+          "answer": "Evet, HD ve Full HD videolar, fotoğraflar ve müzikler gibi yüksek kaliteli Instagram içeriğini filigransız olarak BlessingSave.com'dan indirebilirsiniz."
+        },
+        {
+          "id": "8",
+          "question": "Instagram içeriğini hangi formatta indirebilirim?",
+          "answer": "Instagram videoları MP4 formatında, fotoğraflar JPG formatında ve müzik MP3 formatında filigransız olarak indirilecektir."
+        },
+        {
+          "id": "9",
+          "question": "Instagram indiricileri güvenli mi?",
+          "answer": "Birçok Instagram indiricisi güvenlidir, ancak güvenlik risklerinden kaçınmak için saygın ve güvenilir bir araç seçmek önemlidir."
+        },
+        {
+          "id": "10",
+          "question": "En iyi Instagram indiricisini nasıl seçebilirim?",
+          "answer": "Instagram indiricisini seçerken kullanıcı yorumları, desteklenen formatlar, içerik kalite seçenekleri ve kullanım kolaylığı gibi faktörleri göz önünde bulundurun. İyi bir araç, kullanıcı gizliliği ve güvenliğine de öncelik vermelidir."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "TikTok Downloader - Pobierz filmy TikTok bez znaku wodnego - MP4, MP3, Muzyka i Zdjęcia Online | BlessingSave.com",
+    "description": "BlessingSave.com - Najlepsze bezpłatne narzędzie online do pobierania filmów TikTok, muzyki i zdjęć na telefon lub komputer."
+  },
+  "header": {
+    "tiktokButtonTitle": "Pobierz z TikTok",
+    "facebookButtonTitle": "Pobierz z Facebooka",
+    "instagramButtonTitle": "Pobierz z Instagrama",
+    "languageButtonTitle": "Język"
+  },
+  "form": {
+    "formTitle": "Pobieranie z TikTok",
+    "formDescription": "Pobierz filmy | Muzykę | Zdjęcia",
+    "formPlaceholder": "Wklej link do TikTok tutaj",
+    "formPasteButtonTitle": "Wklej",
+    "formClearButtonTitle": "Wyczyść",
+    "formSubmitButtonTitle": "Pobierz"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "Pobierz filmy TikTok z muzyką - Bez znaku wodnego ZA DARMO",
+        "content": "BlessingSave.com to najlepsze narzędzie do pobierania filmów TikTok, które możesz używać bezpośrednio z przeglądarki, aby pobierać filmy TikTok bez znaków wodnych. Nie musisz instalować żadnego oprogramowania na komputerze ani telefonie – wystarczy link do filmu TikTok, a cała obróbka odbywa się po naszej stronie, dzięki czemu jednym kliknięciem pobierzesz film na swoje urządzenie."
+      },
+      "second": {
+        "title": "Pobierz muzykę MP3 z TikTok ZA DARMO - Szybko i łatwo",
+        "content": "Wystarczy, że wpiszesz link do filmu TikTok, a natychmiast pobierzesz plik muzyczny w wysokiej jakości MP3 na swoje urządzenie. Bez konieczności rejestracji – wszystko jest całkowicie darmowe na BlessingSave.com!"
+      }
+    },
+    "feature": {
+      "title": "Kluczowe funkcje",
+      "contents": [
+        "Brak znaku wodnego dla lepszej jakości, czego brakuje wielu istniejącym narzędziom.",
+        "Pobieraj filmy TikTok, Musically na dowolnym urządzeniu: telefonie, komputerze czy tablecie. TikTok pozwala pobierać filmy tylko za pomocą swojej aplikacji, a pobrane filmy zawierają znak wodny.",
+        "Pobieranie bezpośrednio przez przeglądarkę: Wszystko jest szybkie i proste. Nie musisz pobierać ani instalować żadnego oprogramowania.",
+        "Zawsze darmowe. Umieszczam tylko kilka reklam, które pomagają utrzymać usługę i umożliwiają jej dalszy rozwój.",
+        "BlessingSave oferuje również możliwość pobierania muzyki oraz wysokiej jakości miniatur filmów."
+      ]
+    },
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "items": [
+        {
+          "id": "1",
+          "question": "Co to jest narzędzie do pobierania filmów TikTok?",
+          "answer": "Narzędzie do pobierania TikTok to aplikacja lub oprogramowanie, które pozwala użytkownikom zapisać filmy, muzykę i zdjęcia z TikTok na ich urządzeniach w różnych opcjach jakościowych."
+        },
+        {
+          "id": "2",
+          "question": "Jak pobrać filmy z TikTok?",
+          "answer": "Aby pobrać film z TikTok, po prostu skopiuj link z TikTok, wklej go w moje narzędzie, a następnie pobierz na swoje urządzenie."
+        },
+        {
+          "id": "3",
+          "question": "Czy używanie narzędzi do pobierania TikTok jest legalne?",
+          "answer": "Pobieranie filmów z TikTok jest legalne do użytku prywatnego. Nie rozpowszechniaj ich, aby uniknąć problemów z prawami autorskimi."
+        },
+        {
+          "id": "4",
+          "question": "Czy mogę pobrać filmy bez znaku wodnego?",
+          "answer": "Tak, możesz pobrać filmy TikTok bez znaku wodnego na BlessingSave.com."
+        },
+        {
+          "id": "5",
+          "question": "Czy narzędzie do pobierania TikTok jest darmowe?",
+          "answer": "Tak, BlessingSave.com jest całkowicie darmowe. Umieszczam tylko kilka reklam, które pomagają utrzymać usługę i umożliwiają jej dalszy rozwój."
+        },
+        {
+          "id": "6",
+          "question": "Czy muszę się zalogować, aby korzystać z narzędzia do pobierania TikTok?",
+          "answer": "BlessingSave.com to narzędzie online, które nie wymaga logowania się, aby z niego skorzystać."
+        },
+        {
+          "id": "7",
+          "question": "Czy mogę pobrać filmy z TikTok w jakości HD?",
+          "answer": "Tak, możesz pobrać filmy TikTok w wysokiej jakości, takich jak HD i Full HD na BlessingSave.com."
+        },
+        {
+          "id": "8",
+          "question": "W jakim formacie mogę pobrać filmy TikTok?",
+          "answer": "Filmy TikTok będą pobierane w formacie MP4, a muzyka w formacie MP3."
+        },
+        {
+          "id": "9",
+          "question": "Czy narzędzia do pobierania TikTok są bezpieczne w użyciu?",
+          "answer": "Chociaż wiele narzędzi do pobierania TikTok jest bezpiecznych, ważne jest, aby wybrać renomowane i wiarygodne narzędzie, aby uniknąć ryzyka związanego z bezpieczeństwem."
+        },
+        {
+          "id": "10",
+          "question": "Jak wybrać najlepsze narzędzie do pobierania TikTok?",
+          "answer": "Przy wyborze narzędzia do pobierania TikTok warto kierować się opiniami użytkowników, obsługiwanymi formatami, opcjami jakości wideo oraz łatwością użycia. Dobre narzędzie powinno również dbać o prywatność i bezpieczeństwo użytkowników."
+        }
+      ]
+    }
+  }
+}

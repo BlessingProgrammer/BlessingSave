@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "TikTok Downloader - Unduh Video TikTok Tanpa Watermark - MP4, MP3, Musik & Foto Online | BlessingSave.com",
+    "description": "BlessingSave.com - Alat downloader TikTok terbaik secara gratis untuk mengunduh video, musik, dan foto ke smartphone atau komputer."
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok Downloader",
+    "facebookButtonTitle": "Facebook Downloader",
+    "instagramButtonTitle": "Instagram Downloader",
+    "languageButtonTitle": "Bahasa"
+  },
+  "form": {
+    "formTitle": "TikTok Downloader",
+    "formDescription": "Unduh Video | Musik | Foto",
+    "formPlaceholder": "Tempelkan tautan TikTok Anda di sini",
+    "formPasteButtonTitle": "Tempelkan",
+    "formClearButtonTitle": "Bersihkan",
+    "formSubmitButtonTitle": "Unduh"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "Unduh Video TikTok dengan Musik - Tanpa Watermark Secara GRATIS",
+        "content": "BlessingSave.com adalah alat downloader TikTok terkemuka yang dapat Anda gunakan langsung dari browser untuk mengunduh video TikTok tanpa watermark. Tidak perlu menginstal perangkat lunak apapun di komputer atau ponsel Anda; yang Anda butuhkan hanyalah tautan video TikTok, dan semua proses dilakukan di server kami, sehingga Anda bisa mengunduh video ke perangkat Anda hanya dengan satu klik."
+      },
+      "second": {
+        "title": "Unduh Musik MP3 dari TikTok Secara GRATIS - Cepat dan Mudah",
+        "content": "Cukup masukkan tautan video TikTok, dan Anda bisa langsung mengunduh file musik MP3 berkualitas tinggi ke perangkat Anda. Tidak perlu registrasi – semua ini sepenuhnya gratis di BlessingSave.com!"
+      }
+    },
+    "feature": {
+      "title": "Fitur Utama",
+      "contents": [
+        "Tanpa watermark untuk kualitas yang lebih baik, sesuatu yang kurang dimiliki oleh banyak alat yang ada.",
+        "Unduh video TikTok, video Musically di perangkat apapun yang Anda inginkan: ponsel, PC, atau tablet. TikTok hanya memungkinkan pengunduhan video melalui aplikasinya, dan video yang diunduh akan menyertakan watermark.",
+        "Unduh langsung melalui browser Anda: Semua proses cepat dan sederhana. Tidak perlu mengunduh atau menginstal perangkat lunak.",
+        "Selalu gratis. Kami hanya menampilkan sedikit iklan yang membantu mendukung layanan ini dan memungkinkan saya untuk terus mengembangkannya.",
+        "BlessingSave juga memungkinkan Anda mengunduh musik dan thumbnail video berkualitas tinggi."
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "items": [
+        {
+          "id": "1",
+          "question": "Apa itu TikTok Downloader?",
+          "answer": "TikTok downloader adalah alat atau perangkat lunak yang memungkinkan pengguna menyimpan video, musik, dan foto TikTok ke perangkat mereka dalam berbagai pilihan kualitas."
+        },
+        {
+          "id": "2",
+          "question": "Bagaimana cara mengunduh video dari TikTok?",
+          "answer": "Untuk mengunduh video TikTok, cukup salin tautan dari TikTok, tempelkan di alat ini, dan unduh ke perangkat Anda."
+        },
+        {
+          "id": "3",
+          "question": "Apakah menggunakan TikTok downloader legal?",
+          "answer": "Mengunduh video TikTok adalah legal untuk penggunaan pribadi. Jangan mendistribusikannya untuk menghindari masalah hak cipta."
+        },
+        {
+          "id": "4",
+          "question": "Bisakah saya mengunduh video tanpa watermark?",
+          "answer": "Ya, Anda bisa mengunduh video TikTok tanpa watermark di BlessingSave.com."
+        },
+        {
+          "id": "5",
+          "question": "Apakah TikTok downloader ini gratis?",
+          "answer": "Ya, BlessingSave.com sepenuhnya gratis. Kami hanya menampilkan sedikit iklan untuk mendukung layanan ini dan terus mengembangkannya."
+        },
+        {
+          "id": "6",
+          "question": "Apakah saya perlu login untuk menggunakan TikTok downloader?",
+          "answer": "BlessingSave.com adalah alat online yang tidak memerlukan login untuk menggunakannya."
+        },
+        {
+          "id": "7",
+          "question": "Bisakah saya mengunduh video TikTok dalam kualitas HD?",
+          "answer": "Ya, Anda bisa mengunduh video TikTok berkualitas tinggi, seperti HD dan Full HD di BlessingSave.com."
+        },
+        {
+          "id": "8",
+          "question": "Dalam format apa saya bisa mengunduh video TikTok?",
+          "answer": "Video TikTok akan diunduh dalam format MP4, sementara musik akan diunduh dalam format MP3."
+        },
+        {
+          "id": "9",
+          "question": "Apakah TikTok downloader aman digunakan?",
+          "answer": "Meskipun banyak TikTok downloader yang aman, penting untuk memilih alat yang tepercaya dan dapat diandalkan untuk menghindari risiko keamanan."
+        },
+        {
+          "id": "10",
+          "question": "Bagaimana cara memilih TikTok downloader terbaik?",
+          "answer": "Pertimbangkan faktor-faktor seperti ulasan pengguna, format yang didukung, opsi kualitas video, dan kemudahan penggunaan saat memilih TikTok downloader. Alat yang baik juga harus mengutamakan privasi dan keamanan pengguna."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "Instagram Downloader - Pobierz filmy, zdjęcia, muzykę i historie z Instagrama bez znaku wodnego online | BlessingSave.com",
+    "description": "BlessingSave.com - Najlepsze darmowe narzędzie do pobierania filmów, zdjęć, muzyki i historii z Instagrama bez znaku wodnego na smartfona lub komputer."
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok Downloader",
+    "facebookButtonTitle": "Facebook Downloader",
+    "instagramButtonTitle": "Instagram Downloader",
+    "languageButtonTitle": "Język"
+  },
+  "form": {
+    "formTitle": "Instagram Downloader",
+    "formDescription": "Pobierz filmy | Zdjęcia | Muzykę | Historie",
+    "formPlaceholder": "Wklej link do Instagrama tutaj",
+    "formPasteButtonTitle": "Wklej",
+    "formClearButtonTitle": "Wyczyść",
+    "formSubmitButtonTitle": "Pobierz"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "Pobierz filmy, zdjęcia, muzykę i historie z Instagrama bez znaku wodnego ZA DARMO",
+        "content": "BlessingSave.com to wiodące narzędzie do pobierania z Instagrama, które możesz używać bezpośrednio z przeglądarki do pobierania filmów, zdjęć, muzyki i historii z Instagrama bez znaku wodnego. Nie musisz instalować żadnego oprogramowania na swoim komputerze ani telefonie; wystarczy link do Instagrama, a wszystkie operacje wykonamy za Ciebie, dzięki czemu jednym kliknięciem pobierzesz treści na swoje urządzenie."
+      },
+      "second": {
+        "title": "Pobierz muzykę z Instagrama łatwo bez znaku wodnego",
+        "content": "Wystarczy wpisać link do Instagrama, a natychmiast pobierzesz pliki muzyczne MP3 w wysokiej jakości na swoje urządzenie. Bez rejestracji – wszystko całkowicie za darmo na BlessingSave.com!"
+      }
+    },
+    "feature": {
+      "title": "Główne cechy",
+      "contents": [
+        "Pobierz filmy, zdjęcia, muzykę i historie z Instagrama bez znaku wodnego.",
+        "Kompatybilne ze wszystkimi urządzeniami: telefonami, komputerami PC, tabletami.",
+        "Pobieraj bezpośrednio przez przeglądarkę: Nie musisz pobierać ani instalować żadnego oprogramowania.",
+        "Zawsze za darmo. Umieszczam tylko kilka reklam, które pomagają wspierać usługę i umożliwiają jej poprawę.",
+        "Interfejs przyjazny użytkownikowi do szybkiego i łatwego pobierania."
+      ]
+    },
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "items": [
+        {
+          "id": "1",
+          "question": "Czym jest narzędzie do pobierania z Instagrama?",
+          "answer": "Narzędzie do pobierania z Instagrama to program lub aplikacja, która umożliwia użytkownikom zapisywanie filmów, zdjęć, muzyki i historii z Instagrama na swoje urządzenia bez znaku wodnego w różnych opcjach jakości."
+        },
+        {
+          "id": "2",
+          "question": "Jak pobrać treści z Instagrama?",
+          "answer": "Aby pobrać treści z Instagrama bez znaku wodnego, wystarczy skopiować link z Instagrama, wkleić go do mojego narzędzia i pobrać na swoje urządzenie."
+        },
+        {
+          "id": "3",
+          "question": "Czy korzystanie z narzędzi do pobierania z Instagrama jest legalne?",
+          "answer": "Pobieranie treści z Instagrama jest legalne do użytku osobistego. Nie udostępniaj ich ponownie, aby uniknąć problemów z prawami autorskimi."
+        },
+        {
+          "id": "4",
+          "question": "Czy mogę pobrać filmy z Instagrama bez znaku wodnego?",
+          "answer": "Tak, możesz pobrać filmy, zdjęcia, muzykę i historie z Instagrama bez znaku wodnego na BlessingSave.com."
+        },
+        {
+          "id": "5",
+          "question": "Czy narzędzie do pobierania z Instagrama jest darmowe?",
+          "answer": "Tak, BlessingSave.com jest całkowicie darmowe. Umieszczam tylko kilka reklam, które pomagają wspierać usługę i ją ulepszać."
+        },
+        {
+          "id": "6",
+          "question": "Czy muszę się zalogować, aby skorzystać z narzędzia do pobierania z Instagrama?",
+          "answer": "BlessingSave.com to narzędzie online, które nie wymaga logowania do korzystania z niego."
+        },
+        {
+          "id": "7",
+          "question": "Czy mogę pobrać treści z Instagrama w jakości HD bez znaku wodnego?",
+          "answer": "Tak, możesz pobrać wysokiej jakości treści z Instagrama, takie jak filmy w HD i Full HD, zdjęcia i muzykę bez znaku wodnego na BlessingSave.com."
+        },
+        {
+          "id": "8",
+          "question": "W jakim formacie mogę pobrać treści z Instagrama?",
+          "answer": "Filmy z Instagrama będą pobierane w formacie MP4, zdjęcia w formacie JPG, a muzyka w formacie MP3, wszystkie bez znaku wodnego."
+        },
+        {
+          "id": "9",
+          "question": "Czy narzędzia do pobierania z Instagrama są bezpieczne w użyciu?",
+          "answer": "Chociaż wiele narzędzi do pobierania z Instagrama jest bezpiecznych, ważne jest, aby wybrać wiarygodne narzędzie, aby uniknąć ryzyka związanego z bezpieczeństwem."
+        },
+        {
+          "id": "10",
+          "question": "Jak wybrać najlepsze narzędzie do pobierania z Instagrama?",
+          "answer": "Przy wyborze narzędzia do pobierania z Instagrama należy wziąć pod uwagę takie czynniki jak recenzje użytkowników, obsługiwane formaty, opcje jakości treści oraz łatwość użycia. Dobre narzędzie powinno również priorytetowo traktować prywatność i bezpieczeństwo użytkowników."
+        }
+      ]
+    }
+  }
+}

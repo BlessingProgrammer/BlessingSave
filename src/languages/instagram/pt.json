@@ -1,0 +1,97 @@
+{
+  "site": {
+    "title": "Instagram Downloader - Baixe Vídeos, Fotos, Músicas e Stories do Instagram Sem Marca D'Água Online | BlessingSave.com",
+    "description": "BlessingSave.com - A melhor ferramenta de download grátis do Instagram para baixar vídeos, fotos, músicas e stories sem marca d'água para smartphone ou computador."
+  },
+  "header": {
+    "tiktokButtonTitle": "TikTok Downloader",
+    "facebookButtonTitle": "Facebook Downloader",
+    "instagramButtonTitle": "Instagram Downloader",
+    "languageButtonTitle": "Idioma"
+  },
+  "form": {
+    "formTitle": "Instagram Downloader",
+    "formDescription": "Baixar Vídeos | Fotos | Músicas | Stories",
+    "formPlaceholder": "Cole seu link do Instagram aqui",
+    "formPasteButtonTitle": "Colar",
+    "formClearButtonTitle": "Limpar",
+    "formSubmitButtonTitle": "Baixar"
+  },
+  "SEOContainer": {
+    "introduce": {
+      "first": {
+        "title": "Baixe Vídeos, Fotos, Músicas e Stories do Instagram Sem Marca D'Água Grátis",
+        "content": "BlessingSave.com é a principal ferramenta de download do Instagram que você pode usar diretamente do seu navegador para baixar vídeos, fotos, músicas e stories do Instagram sem marca d'água. Não há necessidade de instalar nenhum software no seu computador ou celular; tudo que você precisa é do link do Instagram, e todo o processamento é feito no nosso servidor, então com apenas um clique você pode baixar o conteúdo para o seu dispositivo."
+      },
+      "second": {
+        "title": "Baixe Músicas do Instagram Facilmente Sem Marca D'Água",
+        "content": "Basta inserir o link do Instagram, e você pode instantaneamente baixar arquivos MP3 de alta qualidade para o seu dispositivo. Não é necessário se inscrever – é tudo completamente grátis no BlessingSave.com!"
+      }
+    },
+    "feature": {
+      "title": "Principais Funcionalidades",
+      "contents": [
+        "Baixe vídeos, fotos, músicas e stories do Instagram sem marca d'água.",
+        "Compatível com todos os dispositivos: celular, PC ou tablet.",
+        "Baixe diretamente através do seu navegador: Não há necessidade de baixar ou instalar nenhum software.",
+        "Sempre grátis. Coloco apenas alguns anúncios, que ajudam a manter o serviço e a melhorá-lo.",
+        "Interface fácil de usar para downloads rápidos e simples."
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "id": "1",
+          "question": "O que é um Instagram Downloader?",
+          "answer": "Um Instagram downloader é uma ferramenta ou software que permite aos usuários salvar vídeos, fotos, músicas e stories do Instagram nos seus dispositivos sem marca d'água em várias opções de qualidade."
+        },
+        {
+          "id": "2",
+          "question": "Como faço para baixar conteúdo do Instagram?",
+          "answer": "Para baixar conteúdo do Instagram sem marca d'água, basta copiar o link do Instagram, colá-lo na minha ferramenta e fazer o download para o seu dispositivo."
+        },
+        {
+          "id": "3",
+          "question": "Usar um Instagram downloader é legal?",
+          "answer": "Baixar conteúdo do Instagram é legal para uso pessoal. Não redistribua o conteúdo para evitar problemas de direitos autorais."
+        },
+        {
+          "id": "4",
+          "question": "Posso baixar vídeos do Instagram sem marca d'água?",
+          "answer": "Sim, você pode baixar vídeos, fotos, músicas e stories do Instagram sem marca d'água no BlessingSave.com."
+        },
+        {
+          "id": "5",
+          "question": "O Instagram downloader é grátis?",
+          "answer": "Sim, o BlessingSave.com é completamente grátis. Coloco apenas alguns anúncios para ajudar a manter o serviço e a melhorá-lo."
+        },
+        {
+          "id": "6",
+          "question": "Preciso fazer login para usar o Instagram downloader?",
+          "answer": "O BlessingSave.com é uma ferramenta online e não requer login para ser usada."
+        },
+        {
+          "id": "7",
+          "question": "Posso baixar conteúdo do Instagram em qualidade HD sem marca d'água?",
+          "answer": "Sim, você pode baixar conteúdo de alta qualidade do Instagram, como vídeos HD e Full HD, fotos e músicas sem marca d'água no BlessingSave.com."
+        },
+        {
+          "id": "8",
+          "question": "Em que formato posso baixar conteúdo do Instagram?",
+          "answer": "Vídeos do Instagram serão baixados no formato MP4, fotos no formato JPG e músicas no formato MP3, todos sem marca d'água."
+        },
+        {
+          "id": "9",
+          "question": "Os Instagram downloaders são seguros de usar?",
+          "answer": "Embora muitos Instagram downloaders sejam seguros, é importante escolher uma ferramenta confiável e de boa reputação para evitar riscos de segurança."
+        },
+        {
+          "id": "10",
+          "question": "Como escolher o melhor Instagram downloader?",
+          "answer": "Considere fatores como avaliações de usuários, formatos suportados, opções de qualidade de conteúdo e facilidade de uso ao escolher um Instagram downloader. Uma boa ferramenta também deve priorizar a privacidade e segurança do usuário."
+        }
+      ]
+    }
+  }
+}

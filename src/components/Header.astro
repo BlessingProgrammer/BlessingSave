@@ -1,0 +1,38 @@
+---
+import {LanguagesArray} from "../arrays/LanguagesArray";
+interface Props {
+    tiktokButtonTitle:string;
+    instagramButtonTitle:string;
+    languagesButtonTitle:string;
+    page?: string;
+}
+
+const {tiktokButtonTitle,instagramButtonTitle,languagesButtonTitle,page} = Astro.props;
+---
+<header class="sm:px-4 md:px-6 lg:px-10">
+    <button id="feature-button">
+        <img src="/images/hamburger.webp" alt="hamburger.webp"/>
+    </button>
+    <nav id="feature-menu" class="s-w-full hidden s-md:w-55 s-sm:pe-8 s-lg:pe-10">
+        <ul class="mx-0.5 sm:mx-0 dropdown list-style-none">
+            <li class="p-0.5"><a href="/">{tiktokButtonTitle}</a></li>
+            <li class="p-0.5"><a href="/ig">{instagramButtonTitle}</a></li>
+        </ul>
+    </nav>
+    <h1 class="text-2xl sm:text-3xl font-semibold">Blessing<span>Save</span></h1>
+    <button id="languages-button">
+        <img src="/images/languages.webp" alt="languages.webp" class="lg:hidden"/>
+        <span class="hidden lg:block text-xl font-medium">{languagesButtonTitle}</span>
+    </button>
+    <nav id="languages-menu" class="s-w-full md:right hidden s-md:w-55 s-sm:pe-8 s-lg:pe-10">
+        <ul class="mx-0.5 sm:mx-0 dropdown list-style-none ">
+            {LanguagesArray.map(language => (
+                    <li class="p-0.5">
+                        <a href={page ? `/${page}/${language.code}` : `/${language.code}`}>
+                            {language.flag} {language.name}
+                        </a>
+                    </li>
+            ))}
+        </ul>
+    </nav>
+</header>
