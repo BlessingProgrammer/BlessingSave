@@ -1,60 +1,65 @@
 ---
-interface Props{
-	lang:string;
-	title:string;
-	site:string;
-	description:string;
+interface Props {
+    lang: string;
+    title: string;
+    site: string;
+    description: string;
 }
-const {lang, title,site,description} = Astro.props;
+const {lang, title, site, description} = Astro.props;
 const logo = "/images/logo.webp"
 ---
 
 <!doctype html>
 <html lang={lang}>
 <head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="google" content="notranslate"/>
-	<meta name="robots" content="index, follow"/>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="google" content="notranslate"/>
+    <meta name="robots" content="index, follow"/>
 
-	<title>{title}</title>
-	<link rel="icon" type="image/webp" href={logo} />
-	<meta itemprop="image" content={logo}/>
-	<meta name="description" content={description}/>
-	<meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <link rel="icon" type="image/webp" href={logo}/>
+    <meta itemprop="image" content={logo}/>
+    <meta name="description" content={description}/>
+    <meta name="generator" content={Astro.generator}/>
 
-	<meta name="twitter:card" content={site}/>
-	<meta name="twitter:title" content={title}/>
-	<meta name="twitter:description" content={description}/>
-	<meta name="twitter:image:src" content={logo}/>
-	<meta name="twitter:site" content={site}/>
+    <meta name="twitter:card" content={site}/>
+    <meta name="twitter:title" content={title}/>
+    <meta name="twitter:description" content={description}/>
+    <meta name="twitter:image:src" content={logo}/>
+    <meta name="twitter:site" content={site}/>
 
-	<meta property="og:title" content={title}/>
-	<meta property="og:type" content="article"/>
-	<meta property="og:image" content={logo}/>
-	<meta property="og:description" content={description}/>
-	<meta property="og:site_name" content={site}/>
+    <meta property="og:title" content={title}/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:image" content={logo}/>
+    <meta property="og:description" content={description}/>
+    <meta property="og:site_name" content={site}/>
 
-	<link rel="apple-touch-icon" sizes="192x192" href={logo}/>
-	<link rel="shortcut icon" sizes="192x192" href={logo}/>
+    <link rel="apple-touch-icon" sizes="192x192" href={logo}/>
+    <link rel="shortcut icon" sizes="192x192" href={logo}/>
 
-	<link rel="stylesheet" href="/stylesheet/styles.css"/>
-	<script async custom-element="amp-auto-ads"
-			src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-	</script>
+    <link rel="stylesheet" href="/stylesheet/styles.css"/>
+
+    <script async custom-element="amp-auto-ads"
+            src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-53Y0P9MBTG"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-53Y0P9MBTG');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4861255981688770"
+            crossorigin="anonymous"></script>
 </head>
 <body>
-<slot />
+<slot/>
 <script is:inline src="/javascript/js.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-53Y0P9MBTG"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'G-53Y0P9MBTG');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4861255981688770"
-		crossorigin="anonymous"></script>
 </body>
 </html>

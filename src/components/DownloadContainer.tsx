@@ -79,7 +79,14 @@ const DownloadItem: React.FC<DownloadItemProps> = ({page, title, url, filename, 
         </div>
         <DownloadButton
             isLoading={isLoading}
-            onClick={async () => await handleDownload(page, url, filename, setIsLoading)}/>
+            onClick={async () => {
+                await handleDownload(page, url, filename, setIsLoading)
+                gtag('event', 'submit', {
+                    event_category: 'Button',
+                    event_label: 'Download',
+                    value: 1,
+                });
+            }}/>
     </div>
 );
 
@@ -182,3 +189,7 @@ const DownloadContainer: React.FC<Props> = ({page}) => {
 };
 
 export default DownloadContainer;
+function gtag(arg0: string, arg1: string, arg2: { event_category: string; event_label: string; value: number; }) {
+    throw new Error("Function not implemented.");
+}
+
