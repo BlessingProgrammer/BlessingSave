@@ -80,12 +80,12 @@ const SubmitForm: React.FC<Props> = ({
 
     const handleSubmit = () => {
         if (url && url.trim() !== "") {
+            postUrl()
             gtag('event', 'submit', {
                 event_category: 'Form',
                 event_label: page === 'ig' ? 'Instagram Submit' : 'TikTok Submit',
                 value: 1,
             });
-            postUrl()
         }
     }
 
