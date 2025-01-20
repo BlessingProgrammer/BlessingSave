@@ -80,6 +80,11 @@ const SubmitForm: React.FC<Props> = ({
 
     const handleSubmit = () => {
         if (url && url.trim() !== "") {
+            gtag('event', 'submit', {
+                event_category: 'Form',
+                event_label: page === 'ig' ? 'Instagram Submit' : 'TikTok Submit',
+                value: 1,
+            });
             postUrl()
         }
     }
@@ -144,3 +149,7 @@ const SubmitForm: React.FC<Props> = ({
 }
 
 export default SubmitForm;
+function gtag(arg0: string, arg1: string, arg2: { event_category: string; event_label: string; value: number; }) {
+    throw new Error("Function not implemented.");
+}
+
