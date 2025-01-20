@@ -171,10 +171,11 @@ const DownloadContainer: React.FC<Props> = ({page}) => {
             <button
                 onClick={handleDownloadMore}
                 className={"w-full mt-10"}>
-                <p
+                <a
+                    href={page === "ig" ? "/ig" : "/"}
                     className={"h-full bg-gray-100 text-blue-500 rounded-full p-2 flex justify-center items-center shadow-sm hover:bg-blue-500 hover:text-white"}>
                     Download more
-                </p>
+                </a>
             </button>
         </div>
     );
