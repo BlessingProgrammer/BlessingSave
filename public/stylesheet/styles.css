@@ -474,12 +474,6 @@ main {
         width: 26px;
         height: 24px;
     }
-
-    #feature-button img:hover, #languages-button img:hover{
-        padding: 4px;
-        border-radius: 3px;
-        background-color: rgba(0, 102, 255, 0.45);
-    }
 }
 
 /*----*/
@@ -532,5 +526,11 @@ main {
     .lg\:flex-row {
         display: flex;
         flex-direction: row !important;
+    }
+
+    #feature-button img:hover, #languages-button img:hover{
+        padding: 4px;
+        border-radius: 3px;
+        background-color: rgba(0, 102, 255, 0.45);
     }
 }
