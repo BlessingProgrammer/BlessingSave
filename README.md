@@ -32,13 +32,13 @@ BlessingSave.com is a powerful and easy-to-use online tool designed to help user
 
 ## How to Use
 1. Copy the link to the TikTok or Instagram video you want to download.
-2. Paste the link into the input box on [BlessingSave.com](https://blessingsave.com).
+2. Paste the link into the input box on [BlessingSave.com](https://blessingsave.com) for TikTok or [BlessingSave.com/ig](https://blessingsave.com/ig) for Instagram.
 3. Click the "Download" button and wait for the process to complete.
 4. Save the file to your device and enjoy offline!
 
 ---
 
-**Ping me at @domdomvn**  
+**Ping me at [@BlessingProgrammer](mailto:ngocanh.contact.information@gmail.com)**  
 **Check other sites:**
 - [https://blessingsave.com](https://blessingsave.com)
 - [https://blessingsave.com/ig](https://blessingsave.com/ig)
