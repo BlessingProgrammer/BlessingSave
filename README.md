@@ -38,7 +38,7 @@ BlessingSave.com is a powerful and easy-to-use online tool designed to help user
 
 ---
 
-**Ping me at [@BlessingProgrammer](mailto:ngocanh.contact.information@gmail.com)**  
+**Ping me at [BlessingProgrammer](mailto:ngocanh.contact.information@gmail.com)**  
 **Check other sites:**
 - [https://blessingsave.com](https://blessingsave.com)
 - [https://blessingsave.com/ig](https://blessingsave.com/ig)
