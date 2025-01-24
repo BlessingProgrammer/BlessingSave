@@ -1,48 +1,45 @@
-# Astro Starter Kit: Basics
+# TikTok - Instagram Downloader
 
-```sh
-npm create astro@latest -- --template basics
-```
+#tiktokdownloader #instagramdownloader
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Introduction
+BlessingSave.com is a powerful and easy-to-use online tool designed to help users download videos from TikTok and Instagram effortlessly. Whether you want to save your favorite TikTok trends or Instagram reels for offline viewing, BlessingSave has got you covered.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+![BlessingSave Screenshot](src/assets/images/site.jpg)
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Features
 
-## 🚀 Project Structure
+### 1. TikTok Video Downloader
+- Download TikTok videos in high quality.
+- Save videos with or without watermarks.
+- Supports both desktop and mobile devices.
 
-Inside of your Astro project, you'll see the following folders and files:
+### 2. Instagram Video & Reels Downloader
+- Download Instagram posts, videos, and reels easily.
+- No need to install additional software.
+- Supports private account downloads (when shared properly).
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+### 3. Fast and Secure
+- High-speed downloads.
+- Secure and user-friendly interface.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+### 4. Free to Use
+- Enjoy all the features without any cost.
+- No sign-up or registration required.
 
-## 🧞 Commands
+### 5. Multi-Platform Support
+- Works seamlessly on any modern browser, whether on PC, macOS, iOS, or Android.
 
-All commands are run from the root of the project, from a terminal:
+## How to Use
+1. Copy the link to the TikTok or Instagram video you want to download.
+2. Paste the link into the input box on [BlessingSave.com](https://blessingsave.com).
+3. Click the "Download" button and wait for the process to complete.
+4. Save the file to your device and enjoy offline!
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+**Ping me at @domdomvn**  
+**Check other sites:**
+- [https://blessingsave.com](https://blessingsave.com)
+- [https://blessingsave.com/ig](https://blessingsave.com/ig)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
