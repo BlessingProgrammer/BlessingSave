@@ -1,11 +1,14 @@
 ---
+import {LanguagesArray} from "../arrays/LanguagesArray";
+
 interface Props {
     lang: string;
     title: string;
     site: string;
+    wwwSite:string;
     description: string;
 }
-const {lang, title, site, description} = Astro.props;
+const {lang, title, site,wwwSite, description} = Astro.props;
 const logo = "/images/logo.webp"
 ---
 
@@ -37,6 +40,12 @@ const logo = "/images/logo.webp"
 
     <link rel="apple-touch-icon" sizes="192x192" href={logo}/>
     <link rel="shortcut icon" sizes="192x192" href={logo}/>
+
+    <link rel="canonical" href={site}/>
+    <link rel="alternate" hreflang="x-default" href={site}/>
+    {LanguagesArray.map(lang => (
+            <link rel="alternate" hreflang={lang.code} href={`${site}/${lang.code}`}/>
+    ))}
 
     <link rel="stylesheet" href="/stylesheet/styles.css"/>
 
