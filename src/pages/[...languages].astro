@@ -37,7 +37,8 @@ const props = {
 <Layout
         lang={languageCode}
         title={language.site.title}
-        site="https://blessingsave.com"
+        site={"https://blessingsave.com/"+languageCode}
+        sizeDefault="https://blessingsave.com"
         description={language.site.description}>
     <Header tiktokButtonTitle={language.header.tiktokButtonTitle}
             instagramButtonTitle={language.header.instagramButtonTitle}
@@ -46,6 +47,9 @@ const props = {
         <App
                 client:load {...props}
         />
+        <amp-auto-ads type="adsense"
+                      data-ad-client="ca-pub-4861255981688770">
+        </amp-auto-ads>
         <SEOContainer
                 firstIntroduce={language.SEOContainer.introduce.first}
                 secondIntroduce={language.SEOContainer.introduce.second}
@@ -53,6 +57,9 @@ const props = {
                 featuresContents={language.SEOContainer.feature.contents}
                 FAQTitle={language.SEOContainer.faq.title}
                 FAQItems={language.SEOContainer.faq.items}/>
+        <amp-auto-ads type="adsense"
+                      data-ad-client="ca-pub-4861255981688770">
+        </amp-auto-ads>
     </Main>
     <Footer/>
 </Layout>
