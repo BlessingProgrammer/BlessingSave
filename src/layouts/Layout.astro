@@ -5,10 +5,10 @@ interface Props {
     lang: string;
     title: string;
     site: string;
-    sizeDefault:string;
+    sizeDefault: string;
     description: string;
 }
-const {lang, title, site,sizeDefault, description} = Astro.props;
+const {lang, title, site, sizeDefault, description} = Astro.props;
 const logo = "/images/logo.webp"
 ---
 
@@ -41,7 +41,7 @@ const logo = "/images/logo.webp"
     <link rel="apple-touch-icon" sizes="192x192" href={logo}/>
     <link rel="shortcut icon" sizes="192x192" href={logo}/>
 
-    <link rel="canonical" href={site}/>
+    <link rel="canonical" href={lang === 'en' ? sizeDefault : site}/>
     <link rel="alternate" hreflang="x-default" href={sizeDefault}/>
     {LanguagesArray.map(lang => (
             <link rel="alternate" hreflang={lang.code} href={`${sizeDefault}/${lang.code}`}/>
