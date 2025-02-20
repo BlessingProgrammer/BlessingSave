@@ -5,5 +5,11 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    integrations: [react(), tailwind()]
+    output:'static',
+    integrations: [react(), tailwind()],
+    vite:{
+        build:{
+            assetsInlineLimit:0
+        }
+    }
 });
