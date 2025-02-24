@@ -21,7 +21,7 @@ export const LanguagesArray: Language[] = [
     new Language('pt', '🇵🇹', 'Português'),
     new Language('ro', '🇷🇴', 'Română'),
     new Language('ru', '🇷🇺', 'Русский'),
-    new Language('se', '🇸🇪', 'Svenska'),
+    new Language('sv', '🇸🇪', 'Svenska'),
     new Language('th', '🇹🇭', 'ไทย'),
     new Language('tr', '🇹🇷', 'Türkçe'),
     new Language('zh', '🇨🇳', '中文'),
